@@ -1,6 +1,6 @@
 [submodule "plugins/redmine_backlogs"]
 	path = plugins/redmine_backlogs
-	url = git://github.com/backlogs/redmine_backlogs.git
+	url = git@git.savoirfairelinux.com:projects--redmine_backlogs.git
 [submodule "plugins/redmine_gitolite"]
 	path = plugins/redmine_gitolite
 	url = git@git.savoirfairelinux.com:projects--viewer_sfl.git
