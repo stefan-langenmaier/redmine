@@ -20,3 +20,12 @@
 [submodule "plugins/redmine_importer"]
 	path = plugins/redmine_importer
 	url = git@git.savoirfairelinux.com:projects--redmine_importer.git
+[submodule "plugins/redmine-google-analytics"]
+	path = plugins/redmine-google-analytics
+	url = git@git.savoirfairelinux.com:projects--redmine-google-analytics.git
+[submodule "plugins/redmine-gitolite"]
+	path = plugins/redmine-gitolite
+	url = git@git.savoirfairelinux.com:projects--redmine-gitolite.git
+[submodule "plugins/redmine-reminder"]
+	path = plugins/redmine-reminder
+	url = git@git.savoirfairelinux.com:projects--redmine-reminder.git
