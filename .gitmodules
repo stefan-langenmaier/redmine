@@ -17,3 +17,6 @@
         path = plugins/sfl_employees
         url = git@git.savoirfairelinux.com:projects--sfl_employees.git
 
+[submodule "plugins/redmine_importer"]
+	path = plugins/redmine_importer
+	url = git@git.savoirfairelinux.com:projects--redmine_importer.git
