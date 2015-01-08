@@ -22,3 +22,6 @@
 [submodule "plugins/redmine-reminder"]
 	path = plugins/redmine-reminder
 	url = git@git.savoirfairelinux.com:projects--redmine-reminder.git
+[submodule "plugins/redmine_gitolite"]
+	path = plugins/redmine_gitolite
+	url = git@git.savoirfairelinux.com:projects--redmine-gitolite.git
