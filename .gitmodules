@@ -3,7 +3,7 @@
 	url = git@git.savoirfairelinux.com:projects--redmine_backlogs.git
 [submodule "plugins/redmine_gitolite"]
 	path = plugins/redmine_gitolite
-	url = git@git.savoirfairelinux.com:projects--viewer_sfl.git
+	url = git@git.savoirfairelinux.com:projects--redmine-gitolite.git
 [submodule "plugins/viewer_sfl"]
 	path = plugins/viewer_sfl
 	url = git@git.savoirfairelinux.com:projects--viewer_sfl.git
@@ -23,9 +23,6 @@
 [submodule "plugins/redmine-google-analytics"]
 	path = plugins/redmine-google-analytics
 	url = git@git.savoirfairelinux.com:projects--redmine-google-analytics.git
-[submodule "plugins/redmine-gitolite"]
-	path = plugins/redmine-gitolite
-	url = git@git.savoirfairelinux.com:projects--redmine-gitolite.git
 [submodule "plugins/redmine-reminder"]
 	path = plugins/redmine-reminder
 	url = git@git.savoirfairelinux.com:projects--redmine-reminder.git
