@@ -25,3 +25,6 @@
 [submodule "plugins/redmine_gitolite"]
 	path = plugins/redmine_gitolite
 	url = git@git.savoirfairelinux.com:projects--redmine-gitolite.git
+[submodule "plugins/redmine_issue_templates"]
+	path = plugins/redmine_issue_templates
+	url = https://github.com/stefan-langenmaier/redmine_issue_templates
