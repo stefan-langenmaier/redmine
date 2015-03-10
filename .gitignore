@@ -24,8 +24,7 @@
 /tmp/sockets/*
 /tmp/test/*
 /tmp/thumbnails/*
-/vendor/cache
-/vendor/rails
+/vendor
 *.rbc
 
 /.bundle
